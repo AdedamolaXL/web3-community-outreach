@@ -1,7 +1,15 @@
 ## 1. Mission Statement 
 What is a Cultural Institutions? A Cultural Institution is an organization with a culture and a mandate to preserve or promote culture. They may be museums, libraries and archives, churches, art galleries, theaters, concert halls and opera houses. 
 
-Our mission is to promote the culture and community surrounding these institutions using the tools of decentralization, open-source access offered by web3 
+What is an Outreach Program? An Outreach Program is a way of providing services that prior to its provision where inaccessible or hard to access by the target communities. 
+
+What is Web3? Web3 is a decentralized protocol of the internet which makes use of distributed network of computer, people and resources to achieve important social goals of decentralization, security and privacy which protects its users and puts them first.
+
+Our Mission Statement identifies with these 3 definitions
+
+Our mission is 
+briding the gap between these institutions and their audience through the power of the internet's latest revolution : web3
+to promote the culture and community surrounding these institutions using the tools of decentralization, open-source access offered by web3 
 
 ## 2. Outlining the Goal
 1. What are your organization’s goals as well as the activities and services it provides? Primarily educational
