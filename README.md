@@ -22,17 +22,49 @@ Our primary goal is to create a community outreach program styled as DAO which b
   The education will be conducted as an online platform, where learning content in form of a curriculum is hosted; 
   The curriculum wil be in three phases for those interested in producing art for web3, promote their art in web3, preserving art in web3. Naturally the curriculum will teach topics at the intersection of art, technology and sustainability. Ideally we will welcome student-members of different levels of proficiency and allow flexbility for self-direction in choosing what they need to learn the most while guiding them to make the best choices. We will also focus more on digital art because of the virtual structure of the program and the philosophy behind it.
   
-  * Produce art for web3: Those interested in producing art for web3 are in two broad categories: the newbies, the oldheads.. this demarcation is for those who are getting into art for the first time and those who just need to upskill or learn new techniques. Sme forms of 
-  * Promoting art in web3: This section of the curriculum will focus more on the marketing, netwroking, story-telling time, branding side of things.
+  * Produce art for web3: Those interested in producing art for web3 are in two broad categories: the newbies, the oldheads.. this demarcation is for those who are getting into art for the first time and those who just need to upskill or learn new techniques. We can create our curriculum around:
+    * Digital Painting
+    * Drawing
+    * Vector Art
+    * 3d modelling
+    * 3D sculpting
+    * Matte Painting and Photomanipulation
+    * Pixel art
+    * 2D animation
+    * 3D animation
+    
+  * Promoting art in web3: This section of the curriculum will focus more on the 
+    * marketing, 
+    * netwroking, 
+    * story-telling, 
+    * branding side of things.
+    
   * Preserving art in web3: This section will focus on how to use technology to preserve art, ethical and sustainability issues including a little bit of history
+    * documentation
+    * migration
+    * emulation
+    * recreation
+    * ethical and sustainability issues
+  
 * Collaboration
+The residency program for examples is a chance for student-members who have completed the program to have access to more resources, new cultures and techniques, an opportunity to work up with a sponsoring institution, polish and refine their art and figure out what they want to do after. It's a bit like an internship only that artist will be encouraged to expose themselves to new forms they haven't explored together.
 * Cooperative Investments
 * Loyalties Plan
 
 ### ACTIVITIES
 * Education
-  - Online learning platform
+  - Online learning platform 
+    * S = Create an online platform for learning digital art  
+    * M = Have a standard curriculum catering to at least 4 niches in the beginner section. Onboard at least a 1000 members in the first 3 months. Measure our progress by how many people take each course and progress to the next one. Evaluate what we are doing right and wrong. Evaluate how many of our members are active on the learning platform and figure out how to increase active participation by noting what we are doing right and wrong.
+    * A = Potential obstacles, incremental changes to work on and look out for.
+    * R = Offer tests and NFTs to measure and encourage student-members capability
+    * T = 3 months timeline
   - Art spaces and discussions 
+    * S = Create an open space where art can be discussed among members consistently and periodcally.
+    * M = Organize in-house town hall meetings to discuss specific topics in art (discord) every week and then throw in twitter spaces for the same purpose once every month. Also podcast interviews, youtube-channels can be considered. 
+    * A =
+    * R = Gauge which of the social media channels works best and focus on that, engage the community productively by bringing in experts on different topics and encouraging discussion among the student-members in town-hall meetings and interviews.
+    * T = Start 2 weeks after learning platform curriculum launch.
  * Collaboration
    - Virtual residencies
    - Exhibitions
