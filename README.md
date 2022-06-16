@@ -8,11 +8,41 @@
 
 * Our Mission Statement identifies with these 3 definitions and incorporates their core values of culture, preservation and promotion of art, community-building, decentralization and a creator-first ecosystem.
 
-> We are ArtCo DAO, bridging the gap between art's, past, present and future.
+> We are ArtCo, bridging the gap between art's, past, present and future.
 
 
 
 ## 2. Outlining the Goal
+
+### AIM
+Our primary goal is to create a community outreach program styled as DAO which brings art lovers in close contact and communion with cultural instutions with the purpose of preserving and promoting art while fostering key ethos like collaboration, decentralization, education.
+
+### SERVICES
+* Education: Education is a very important tool in creating a community around the outreach program because you want people to learn about what you are doing and why they should be part of it. In our case we are trying to educate and promote art among our community members, not just existing one but prospective ones. This is very important because generally people are always excited about learning about something they are passionate about. What we want to do is here then is to bring these people together, to learn together in one place.
+  The education will be conducted as an online platform, where learning content in form of a curriculum is hosted; 
+  The curriculum wil be in three phases for those interested in producing art for web3, promote their art in web3, preserving art in web3. Naturally the curriculum will teach topics at the intersection of art, technology and sustainability. Ideally we will welcome student-members of different levels of proficiency and allow flexbility for self-direction in choosing what they need to learn the most while guiding them to make the best choices. We will also focus more on digital art because of the virtual structure of the program and the philosophy behind it.
+  
+  * Produce art for web3: Those interested in producing art for web3 are in two broad categories: the newbies, the oldheads.. this demarcation is for those who are getting into art for the first time and those who just need to upskill or learn new techniques. Sme forms of 
+  * Promoting art in web3: This section of the curriculum will focus more on the marketing, netwroking, story-telling time, branding side of things.
+  * Preserving art in web3: This section will focus on how to use technology to preserve art, ethical and sustainability issues including a little bit of history
+* Collaboration
+* Cooperative Investments
+* Loyalties Plan
+
+### ACTIVITIES
+* Education
+  - Online learning platform
+  - Art spaces and discussions 
+ * Collaboration
+   - Virtual residencies
+   - Exhibitions
+   - Competitions
+ * Cooperative Investments
+  - Liquidity pools
+  - Fundraising
+  - Joint-ownership
+ * Loyalties Plan
+### OBJECTIVES 
 1. What are your organization’s goals as well as the activities and services it provides? Primarily educational
   - Goal: The primary goal of this outreach is to educate and promote community collaboration among art lovers
   - Services: Education, Collaboration, Investment and Loyalties plan
