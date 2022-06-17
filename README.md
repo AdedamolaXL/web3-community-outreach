@@ -53,12 +53,14 @@ Collaboration is billed to run alongside the education stack but not restricted 
   * competitions which is open to both members and non-members is a free for all mode to encourage art innovation, there will be prizes up for grabs, and artists will be challenged to rethink and think outside the box in how they produce, promote and preserve their digital art, there is also the added bonus of marketing our DAO further and bringing in new members.
 
 * Cooperative Investments
-Investment pools is a way of bringing members resources to achieve the following goals:
+Community members as patrons form an investment group (DA0). Investment pools is a way of bringing members resources to achieve the following goals:
   * jointly acquire artworks
   * sponsor specific projects
   * participate in the speeculative art market
   * invest profits from art-sales in liquidity pools designed to pay back members through automatic payouts.
 because the web3 space is highly monetary-driven, we want a situation where our members are exposed to the nitty-gritty of the investment game, not just around NFTs but into the world of DEFI where the usecase before DAO resources can be better explored. We want to create a DAO in which NFT (ART) creators generally can pool their profits and invest in DEFI solutions and investment routes, serving as a solid passive-income/cash flow system for them.
+
+
 
 * Loyalties Program
 The loyalties program will be designed to reward members for their participation in community programmes. These does two things, it retains existing members and incentivize them to be more active in the community while also attracting prospective new members to the cause. Some popular incentives that can be applied to the art community include:
@@ -167,7 +169,7 @@ No discrimination
 
   - Incorporating the community members input in the community's vision
   
-## 4. Strategies
+
 ## 5. Budget
 ## 6. Obstacles/Competitions
 ## 7. Contributors, Partners Responsibilities
