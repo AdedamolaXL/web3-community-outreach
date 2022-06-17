@@ -46,14 +46,22 @@ Our primary goal is to create a community outreach program styled as DAO which b
     * recreation
     * ethical and sustainability issues
   
-* Collaboration
-The residency program for examples is a chance for student-members who have completed the program to have access to more resources, new cultures and techniques, an opportunity to work up with a sponsoring institution, polish and refine their art and figure out what they want to do after. It's a bit like an internship only that artist will be encouraged to expose themselves to new forms they haven't explored together.
+* Collaboration 
+Collaboration is billed to run alongside the education stack but not restricted to the student-members, we recongize that our  membership has the potential to not only include artists only, but also art lovers in forms of techies, patrons, culturals institutions, etc. We want to create a open space where everyone can participate, collaborate and nurture each other's passions. We aim to caretake this through organizing virtual residency programs, exhibitions and competitions
+  * virtual residency programs - specially created for student-members who have completed the program to have access to more resources, new cultures and techniques, an opportunity to work up with a sponsoring institution, polish and refine their art and figure out what they want to do after. It's a bit like an internship only that artist will be encouraged to expose themselves to new forms they haven't explored together. 
+  * exhibitions - which is open to all members to exhibit, promote, showcase and curate their art. Exhibits will also serve as auctions, points-of-sales and a way to interface with sponsor institutions and companies. Non-members will be invited and allowed to participate in the experience though they may not participate themselves.
+  * competitions which is open to both members and non-members is a free for all mode to encourage art innovation, there will be prizes up for grabs, and artists will be challenged to rethink and think outside the box in how they produce, promote and preserve their digital art, there is also the added bonus of marketing our DAO further and bringing in new members.
 
 * Cooperative Investments
+Investment pools is a way of bringing members resources to achieve the following goals:
+  * jointly acquire artworks
+  * sponsor specific projects
+  * participate in the speeculative art market
+  * invest profits from art-sales in liquidity pools designed to pay back members through automatic payouts.
 because the web3 space is highly monetary-driven, we want a situation where our members are exposed to the nitty-gritty of the investment game, not just around NFTs but into the world of DEFI where the usecase before DAO resources can be better explored. We want to create a DAO in which NFT (ART) creators generally can pool their profits and invest in DEFI solutions and investment routes, serving as a solid passive-income/cash flow system for them.
 
 * Loyalties Plan
-the scope of how to reward our most loyal and active members may be explored not just in the governance edge of things but also in the acquistion side of art objects (through discounts) as well slash-prices for online/offline events. This is done to show value for members participations. Value for value is the name of the game.
+the scope of how to reward our most loyal and active members may be explored not just in the governance edge of things but also in the acquistion side of art objects (through discounts) as well slash-prices for online/offline events. This is done to show value for members participations. Value for value is the name of the game
 
 ### ACTIVITIES
 * Education
