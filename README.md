@@ -48,8 +48,12 @@ Our primary goal is to create a community outreach program styled as DAO which b
   
 * Collaboration
 The residency program for examples is a chance for student-members who have completed the program to have access to more resources, new cultures and techniques, an opportunity to work up with a sponsoring institution, polish and refine their art and figure out what they want to do after. It's a bit like an internship only that artist will be encouraged to expose themselves to new forms they haven't explored together.
+
 * Cooperative Investments
+because the web3 space is highly monetary-driven, we want a situation where our members are exposed to the nitty-gritty of the investment game, not just around NFTs but into the world of DEFI where the usecase before DAO resources can be better explored. We want to create a DAO in which NFT (ART) creators generally can pool their profits and invest in DEFI solutions and investment routes, serving as a solid passive-income/cash flow system for them.
+
 * Loyalties Plan
+the scope of how to reward our most loyal and active members may be explored not just in the governance edge of things but also in the acquistion side of art objects (through discounts) as well slash-prices for online/offline events. This is done to show value for members participations. Value for value is the name of the game.
 
 ### ACTIVITIES
 * Education
@@ -65,34 +69,71 @@ The residency program for examples is a chance for student-members who have comp
     * A =
     * R = Gauge which of the social media channels works best and focus on that, engage the community productively by bringing in experts on different topics and encouraging discussion among the student-members in town-hall meetings and interviews.
     * T = Start 2 weeks after learning platform curriculum launch.
- * Collaboration
-   - Virtual residencies
+* Collaboration
+  - Virtual residencies
+    * S = Create a virtual residency program for student-members who have completed their phase of the curriculum
+    * M = The virtual residency will reoccur every 6 months to provide a sufficient net-period for student-members to complete their phase
+    * A =
+    * R = Mentors, resources will be provided
+    * T = The program will last 1 month
    - Exhibitions
+    * S = Create an exhibition/auction where members can present their works and appreciate others works
+    * M = Exhibitions will take place every 6 months intervals
+    * A =
+    * R =
+    * T = It will last for one week
    - Competitions
+    * S = Organize art competitions to stimulate and encourage innovation among artist-members, it will be styled like an hackathon
+    * M = Art competitions will occur once in a year
+    * A =
+    * R =
+    * T =
  * Cooperative Investments
   - Liquidity pools
-  - Fundraising
+    * S =
+    * M =
+    * A =
+    * R =
+    * T =
+  - Fundraising 
+    * S =
+    * M =
+    * A =
+    * R =
+    * T =
   - Joint-ownership
+    * S =
+    * M =
+    * A =
+    * R =
+    * T =
  * Loyalties Plan
-### OBJECTIVES 
-1. What are your organization’s goals as well as the activities and services it provides? Primarily educational
-  - Goal: The primary goal of this outreach is to educate and promote community collaboration among art lovers
-  - Services: Education, Collaboration, Investment and Loyalties plan
-  - Activities: virtual learning, virtual residencies, exhibitions, art spaces and discussions, competitions, fund-raising
-  
-2. Target Group?
-  - Art lovers within the millenial demographic
-  - Why? 
-  - How to encourage active participation?
-  - What do we want want from the target group?
-  - What are we offering them?
-  - Creating a safe, open accessible community for them..
-  - Incorporating the community members input in the community's vision
+    * S =
+    * M =
+    * A =
+    * R =
+    * T =
 
-3.  KPIs
 
 
 ## 3. Target Market
+   - Art lovers within the millenial demographic
+  - Why? We are focussing on art lovers within the millenial demographic because they are the most tech-savvy and finally buoyant of the group considered. Gen Z is tech savvy as well but hasn't averagely hasn't achieved purchasing power as a demographic due to their age, while baby boomers while finally bouyant are not neccesarily tech-savy enough to probably handle web3 technologies. While we aim to be as open as possible and onboard as many people as possible. We have chose the millenial group as our focus group for the above reasons.
+  
+  - How to encourage active participation?
+Community building, participation and relationship is they key here.
+
+  - What do we want want from the target group?
+Their energy, passion, dedication, resources both mental, financial, social, etc.
+
+  - What are we offering them?
+A virtual community to explore the world of art with fellow art lovers.
+
+  - Creating a safe, open accessible community for them..
+No discrimination 
+
+  - Incorporating the community members input in the community's vision
+  
 ## 4. Strategies
 ## 5. Budget
 ## 6. Obstacles/Competitions
