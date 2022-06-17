@@ -60,8 +60,33 @@ Investment pools is a way of bringing members resources to achieve the following
   * invest profits from art-sales in liquidity pools designed to pay back members through automatic payouts.
 because the web3 space is highly monetary-driven, we want a situation where our members are exposed to the nitty-gritty of the investment game, not just around NFTs but into the world of DEFI where the usecase before DAO resources can be better explored. We want to create a DAO in which NFT (ART) creators generally can pool their profits and invest in DEFI solutions and investment routes, serving as a solid passive-income/cash flow system for them.
 
-* Loyalties Plan
-the scope of how to reward our most loyal and active members may be explored not just in the governance edge of things but also in the acquistion side of art objects (through discounts) as well slash-prices for online/offline events. This is done to show value for members participations. Value for value is the name of the game
+* Loyalties Program
+The loyalties program will be designed to reward members for their participation in community programmes. These does two things, it retains existing members and incentivize them to be more active in the community while also attracting prospective new members to the cause. Some popular incentives that can be applied to the art community include:
+  * advance notice of/early access to new products
+  * early access to sales
+  * free merchandise or enhanced services
+  * special services, like free or expedited shipping
+  * members-only discounts
+  * The loyalty program also forms basis to the DAO governance
+
+ 
+There are various ways of utilizing a reward system in a decentralized way. Ideally the reward system will be connected to the wallet address of members.
+Loyalty points will be equated to token value. Token value can be interchangeable and traded on-chain. Loyalty tokens may also be useful outside the community if the there are partnerships with other DAOs
+
+Blockchains can also protect members privacy while making use of their data if they decided to make it available.
+
+Blockchains can store and track loyalty points in real time via the use of smart contracts
+
+the scope of how to reward our most loyal and active members may be explored not just in the governance edge of things but also in the acquistion side of art objects (through discounts) as well slash-prices for online/offline events. This is done to show value for members participations. Value for value is the name of the game.
+
+Some systems to adopt are:
+  * Points system - based on rate of purchases - discounts and free NFTs
+  * Tiered rewards - based on community participation - exclusives, whitelists
+  (Points system x Tiered system) - governance 
+  * Upfront patron fee - to protect and preserve a piece of art of their own choice, lower transaction fees?
+  * Distinctive rewards - free tickets, early access, contact with their fav artiste, contribute to important socio-political causes
+  * Partner with other communities, DAOs, cultural institutions
+  * 
 
 ### ACTIVITIES
 * Education
