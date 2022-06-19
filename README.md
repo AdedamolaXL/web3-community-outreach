@@ -6,9 +6,10 @@
 
 * What is Web3? Web3 is a decentralized protocol of the internet which makes use of distributed network of computer, people and resources to achieve important social goals of decentralization, security and privacy which protects its users and puts them first.
 
-* Our Mission Statement identifies with these 3 definitions and incorporates their core values of culture, preservation and promotion of art, community-building, decentralization and a creator-first ecosystem.
+* Our Mission Statement identifies with these 3 definitions and incorporates their core values of culture, preservation and promotion of art, community-building, decentralization in a creator-first ecosystem.
 
-> We are ArtCo, bridging the gap between art's, past, present and future.
+> We are ArtCo, bridging the gap between art's, past, present and future. 
+> The past in form of created Art, the present in form of the viewer or new owner and the future in form of the decentralization of the cultural heritage of the world. 
 
 
 
@@ -82,13 +83,13 @@ Blockchains can store and track loyalty points in real time via the use of smart
 the scope of how to reward our most loyal and active members may be explored not just in the governance edge of things but also in the acquistion side of art objects (through discounts) as well slash-prices for online/offline events. This is done to show value for members participations. Value for value is the name of the game.
 
 Some systems to adopt are:
-  * Points system - based on rate of purchases - discounts and free NFTs
+  * Points system - based on rate of purchases - discounts/bonuses and free NFTs
   * Tiered rewards - based on community participation - exclusives, whitelists
   (Points system x Tiered system) - governance 
   * Upfront patron fee - to protect and preserve a piece of art of their own choice, lower transaction fees?
   * Distinctive rewards - free tickets, early access, contact with their fav artiste, contribute to important socio-political causes
   * Partner with other communities, DAOs, cultural institutions
-  * 
+  * On Chain message system for contacting NFT/Ticket holders 
 
 ### ACTIVITIES
 * Education
@@ -101,59 +102,59 @@ Some systems to adopt are:
   - Art spaces and discussions 
     * S = Create an open space where art can be discussed among members consistently and periodcally.
     * M = Organize in-house town hall meetings to discuss specific topics in art (discord) every week and then throw in twitter spaces for the same purpose once every month. Also podcast interviews, youtube-channels can be considered. 
-    * A =
+    * A = The Art space for the best works
     * R = Gauge which of the social media channels works best and focus on that, engage the community productively by bringing in experts on different topics and encouraging discussion among the student-members in town-hall meetings and interviews.
     * T = Start 2 weeks after learning platform curriculum launch.
 * Collaboration
   - Virtual residencies
     * S = Create a virtual residency program for student-members who have completed their phase of the curriculum
     * M = The virtual residency will reoccur every 6 months to provide a sufficient net-period for student-members to complete their phase
-    * A =
+    * A = Members get a special NFT-badge after the program
     * R = Mentors, resources will be provided
     * T = The program will last 1 month
    - Exhibitions
     * S = Create an exhibition/auction where members can present their works and appreciate others works
-    * M = Exhibitions will take place every 6 months intervals
-    * A =
-    * R =
-    * T = It will last for one week
+    * M = Exhibitions will take place every 3-6 months intervals
+    * A = It is possible to make secret or non secret offers for 1/1 and 1/N art creations
+    * R = The highest offer wins after the exibition ends
+    * T = It will last for two week
    - Competitions
     * S = Organize art competitions to stimulate and encourage innovation among artist-members, it will be styled like an hackathon
     * M = Art competitions will occur once in a year
-    * A =
-    * R =
-    * T =
+    * A = Prices could be Tickets, special NFT & traveling costs to real World exibitions 
+    * R = Winners will be voted by community
+    * T = They will last for 1 month
  * Cooperative Investments
   - Liquidity pools
-    * S =
-    * M =
+    * S = Users / Members can participate in Dao created pools 
+    * M = 
     * A =
     * R =
     * T =
   - Fundraising 
-    * S =
-    * M =
+    * S = 
+    * M = Members can create fundraising programms 
     * A =
     * R =
     * T =
   - Joint-ownership
     * S =
     * M =
-    * A =
-    * R =
+    * A = distributed ownership 
+    * R = 
     * T =
  * Loyalties Plan
-    * S =
+    * S = 
     * M =
-    * A =
-    * R =
-    * T =
+    * A = Art-Coins with colletaral in real Art or money
+    * R = Create special branded NFT Items of unique 1/1 art as 1/n
+    * T = Give away of 1/n special branded NFT 
 
 
 
 ## 3. Target Market
    - Art lovers within the millenial demographic
-  - Why? We are focussing on art lovers within the millenial demographic because they are the most tech-savvy and finally buoyant of the group considered. Gen Z is tech savvy as well but hasn't averagely hasn't achieved purchasing power as a demographic due to their age, while baby boomers while finally bouyant are not neccesarily tech-savy enough to probably handle web3 technologies. While we aim to be as open as possible and onboard as many people as possible. We have chose the millenial group as our focus group for the above reasons.
+  - Why? We are focussing on art lovers within the millenial demographic because they are the most tech-savvy and finally buoyant of the group considered. Gen Z is tech savvy as well but hasn't averagely hasn't achieved purchasing power as a demographic due to their age, while baby boomers while finally bouyant are not neccesarily tech-savy enough to probably handle web3 technologies. While we aim to be as open as possible and onboard as many people as possible. We have chose the millenial group as our focus group for the above reasons. But we welcome all people able to understand it.
   
   - How to encourage active participation?
 Community building, participation and relationship is they key here.
@@ -171,5 +172,8 @@ No discrimination
   
 
 ## 5. Budget
+
 ## 6. Obstacles/Competitions
+
 ## 7. Contributors, Partners Responsibilities
+
