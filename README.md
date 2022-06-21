@@ -168,7 +168,26 @@ A virtual community to explore the world of art with fellow art lovers.
 No discrimination 
 
   - Incorporating the community members input in the community's vision
-  
+
+### Building Relationships
+We intend to build relationships not just with members of our communities, but partner institutions, companies, DAOs including the wider art community. This is our general guideline for building a healthy community:
+  * Be seen, be consistent, be open, and deliver on our promises.
+  * Let the community be self-governing i.e validate the importance of each community member as a stakeholder.
+  * Encourage diversity and encourage members to treat each other in a dignified, sincere manner.
+  * Clear communication
+  * Keep an open mind and allow information, ideas to flow
+  * Carry out extensive consultation with all stakeholders, before launching, and continue after launching on a consistent basis 
+  * Identify and attend activities, events organized by similar communities to build connections, demonstrate commitment and encourage engagement. 
+  * clearing the air concerning issues to which your organization is connected in order to reduce negative feelings and viewpoints
+  * actively listening to community members. This should include asking them questions, even about things off-topic that are important to them.
+ 
+ ### Specific Strategies 
+  * Conduct a needs assessment to understand what the (digital) art communitites require the most and focus on that in terms of design for the DAO
+    * Collect accurate data, stories, case-studies to get the perfect picture of the reality on ground.
+    * Identify the most important issues raised and the most important features needed and implement based on that
+    * Let the marketing outreach focus on telling stories
+    * Minimize assessment or intake procedures to lessen the bottlenecks for incoming members
+    * 
 
 ## 5. Budget
 ## 6. Obstacles/Competitions
