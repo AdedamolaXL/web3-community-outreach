@@ -170,16 +170,21 @@ No discrimination
   - Incorporating the community members input in the community's vision
 
 ### Building Relationships
-We intend to build relationships not just with members of our communities, but partner institutions, companies, DAOs including the wider art community. This is our general guideline for building a healthy community:
-  * Be seen, be consistent, be open, and deliver on our promises.
-  * Let the community be self-governing i.e validate the importance of each community member as a stakeholder.
-  * Encourage diversity and encourage members to treat each other in a dignified, sincere manner.
-  * Clear communication
-  * Keep an open mind and allow information, ideas to flow
+
+#### General Guidelines
+  * To be seen, to be consistent, to be open, and deliver on our promises as an organization.
+  * Include as many people, and organizations in our outreach to widen the net of communication and connections.
+  * Treat everyone with respect and dignity befitting of stakeholders.
+  * Nurture the principles of diversity, genuiness and sincerity within the community
   * Carry out extensive consultation with all stakeholders, before launching, and continue after launching on a consistent basis 
-  * Identify and attend activities, events organized by similar communities to build connections, demonstrate commitment and encourage engagement. 
-  * clearing the air concerning issues to which your organization is connected in order to reduce negative feelings and viewpoints
-  * actively listening to community members. This should include asking them questions, even about things off-topic that are important to them.
+
+#### Building Relationships with Members
+  * Validate the importance of each community member by involving them in goal-setting and governance of the community.
+  * Keep an open line of communication and manage members expectation by clearly defining the goals and services being offered.
+  * Clear the air on concerning issues within the community to reduce negative feelings and viewpoints.
+  * Actively listen to community members, encourage inquiries and questions to figure out what members consider important.
+  * Encourage diversity and encourage members to treat each other in a dignified, sincere manner.
+  * Exercise patience
  
  ### Specific Strategies 
   * Conduct a needs assessment to understand what the (digital) art communitites require the most and focus on that in terms of design for the DAO
