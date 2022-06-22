@@ -184,9 +184,12 @@ No discrimination
   * Clear the air on concerning issues within the community to reduce negative feelings and viewpoints.
   * Actively listen to community members, encourage inquiries and questions to figure out what members consider important.
   * Encourage diversity and encourage members to treat each other in a dignified, sincere manner.
-  * Exercise patience
  
- ### Specific Strategies 
+#### Building Relationships with Partner Organizations
+  * Research and reach out to :
+    * 
+ 
+ #### Specific Strategies 
   * Conduct a needs assessment to understand what the (digital) art communitites require the most and focus on that in terms of design for the DAO
     * Collect accurate data, stories, case-studies to get the perfect picture of the reality on ground.
     * Identify the most important issues raised and the most important features needed and implement based on that
