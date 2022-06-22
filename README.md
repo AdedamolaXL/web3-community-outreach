@@ -6,7 +6,7 @@
 
 * What is Web3? Web3 is a decentralized protocol of the internet which makes use of distributed network of computer, people and resources to achieve important social goals of decentralization, security and privacy which protects its users and puts them first.
 
-* Our Mission Statement identifies with these 3 definitions and incorporates their core values of culture, preservation and promotion of art, community-building, decentralization and a creator-first ecosystem.
+* Our Mission Statement identifies with these 3 definitions and incorporates their core values of culture, preservation and promotion of art, community-building, decentralization in a creator-first ecosystem.
 
 > We are ArtCo, bridging the gap between art's, past, present and future.
 
@@ -82,14 +82,15 @@ Blockchains can store and track loyalty points in real time via the use of smart
 the scope of how to reward our most loyal and active members may be explored not just in the governance edge of things but also in the acquistion side of art objects (through discounts) as well slash-prices for online/offline events. This is done to show value for members participations. Value for value is the name of the game.
 
 Some systems to adopt are:
-  * Points system - based on rate of purchases - discounts and free NFTs
+  * Points system - based on rate of purchases - discounts/bonuses and free NFTs
   * Tiered rewards - based on community participation - exclusives, whitelists
   (Points system x Tiered system) - governance 
   * Upfront patron fee - to protect and preserve a piece of art of their own choice, lower transaction fees?
   * Distinctive rewards - free tickets, early access, contact with their fav artiste, contribute to important socio-political causes
   * Partner with other communities, DAOs, cultural institutions
   * 
-
+ On Chain message system for contacting NFT/Ticket holders 
+ 
 ### ACTIVITIES
 * Education
   - Online learning platform 
@@ -109,7 +110,7 @@ Some systems to adopt are:
     * S = Create a virtual residency program for student-members who have completed their phase of the curriculum
     * M = The virtual residency will reoccur every 6 months to provide a sufficient net-period for student-members to complete their phase
     * A =
-    * R = Mentors, resources will be provided
+    * R = Mentors, resources will be provided, Members get a special NFT-badge after the program
     * T = The program will last 1 month
    - Exhibitions
     * S = Create an exhibition/auction where members can present their works and appreciate others works
@@ -120,9 +121,9 @@ Some systems to adopt are:
    - Competitions
     * S = Organize art competitions to stimulate and encourage innovation among artist-members, it will be styled like an hackathon
     * M = Art competitions will occur once in a year
-    * A =
-    * R =
-    * T =
+    * A = It is possible to make secret or non secret offers for 1/1 and 1/N art creations
+    * R = The highest offer wins after the exibition ends
+    * T = It will last for two week
  * Cooperative Investments
   - Liquidity pools
     * S =
@@ -139,21 +140,22 @@ Some systems to adopt are:
   - Joint-ownership
     * S =
     * M =
-    * A =
+    * A = distributed ownership 
     * R =
     * T =
  * Loyalties Plan
     * S =
     * M =
-    * A =
-    * R =
-    * T =
+    * A = Art-Coins with colletaral in real Art or money
+    * R = Create special branded NFT Items of unique 1/1 art as 1/n
+    * T = Give away of 1/n special branded NFT 
+    
 
 
 
 ## 3. Target Market
    - Art lovers within the millenial demographic
-  - Why? We are focussing on art lovers within the millenial demographic because they are the most tech-savvy and finally buoyant of the group considered. Gen Z is tech savvy as well but hasn't averagely hasn't achieved purchasing power as a demographic due to their age, while baby boomers while finally bouyant are not neccesarily tech-savy enough to probably handle web3 technologies. While we aim to be as open as possible and onboard as many people as possible. We have chose the millenial group as our focus group for the above reasons.
+  - Why? We are focussing on art lovers within the millenial demographic because they are the most tech-savvy and finally buoyant of the group considered. Gen Z is tech savvy as well but hasn't averagely hasn't achieved purchasing power as a demographic due to their age, while baby boomers while finally bouyant are not neccesarily tech-savy enough to probably handle web3 technologies. While we aim to be as open as possible and onboard as many people as possible. We have chose the millenial group as our focus group for the above reasons. But we welcome all people able to understand it.
   
   - How to encourage active participation?
 Community building, participation and relationship is they key here.
