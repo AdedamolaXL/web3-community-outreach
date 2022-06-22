@@ -186,8 +186,20 @@ No discrimination
   * Encourage diversity and encourage members to treat each other in a dignified, sincere manner.
  
 #### Building Relationships with Partner Organizations
-  * Research and reach out to :
-    * 
+  * Research and reach out to:
+    * organizations with similar missions, purposes, values
+    * organizations with different missions, purposes, values but may have a similar vision, rationale, and objectives to explore potential partnerships with us
+    * important community leaders and influencers
+  * Look for common links, allies, connections and use them as a basis to bond
+  * Attend events, webinars, workshops and use it as an opportunity to bond
+  * Engage potential partners in important conversations like:
+    * what you each do and ideas for what you each need;
+    * ways you can benefit one another;
+    * the communities and networks both organizations reach;
+    * the strengths you can each offer with regard to a potential partnership;
+    * cultural competence and communication styles.
+  * Create a statement clearly outlining the partnership’s vision, rationale, and objectives. Also, explain why you are partnering. Be explicit about each partner’s role and assign tasks and responsibilities based on strengths. Begin with smaller tasks and responsibilities, and then increase their size and complexity over time.
+  * Establish metrics to track desired activities, outputs, and outcomes (e.g., logic models or fidelity scales). Share relevant data as much as possible.
  
  #### Specific Strategies 
   * Conduct a needs assessment to understand what the (digital) art communitites require the most and focus on that in terms of design for the DAO
@@ -197,6 +209,7 @@ No discrimination
     * Minimize assessment or intake procedures to lessen the bottlenecks for incoming members
     * 
 
-## 5. Budget
-## 6. Obstacles/Competitions
-## 7. Contributors, Partners Responsibilities
+## 4. BUDGETS
+## 5. CONTRIBUTORS, PARTNERS AND RESPONSIBILITIES
+## 6. CONCLUSION
+## 7. RECOMMENDATION
