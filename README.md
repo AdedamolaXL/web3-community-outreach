@@ -173,7 +173,30 @@ No discrimination
 
 ## 5. Budget
 
+The starting budged from Institution will be invested in different Defi-Routes and from the yield of this,
+new pools are created by the Dao. In these pools every member can contribute and earn some part of the yield. 
+
+The DAO gets completly financed by the returns from these liquidity pools, but never invests more than 2-5% to each position,
+so that no dramatic fail-event like the Luna-crisis can compromise the liquidity of the DAO. 
+Up to 30% of the initial budged can be distributed to non-defi investments like new Art Originals,
+but also Gold, Silver, Platinum, Tantal and other rare & expensive materials as a security for the DAO.
+
+The first pools yield money will create new pools -  the DAO can vote for or against the new pools.
+From these new pools yield the DAO will create again new pools. 
+Every yield return will be splitted for new pools, running costs & new projects. 
+
+In this way the Dao can create a stable financial position.  
+
+After creating some pools & new pools from the yield, the DAO creates a DAO (index) coin of its investments & owned Art.
+
+And a second coin - the ARTCO DAO COIN will be minted by new Artists each time they sell ART or create Art in the DAO. 
+
+This ARTCO Coin represents the DAO and is used by DAO members to use the voting rights on new proposals. 
+
+
 ## 6. Obstacles/Competitions
+We need some starting budged to create some pools and create the DAO itself, then we need to find institutions to join the DAO 
+and then invest money & time & arts to the DAO. 
 
 ## 7. Contributors, Partners Responsibilities
 
