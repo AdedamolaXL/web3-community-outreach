@@ -11,8 +11,8 @@
 > As the digital age proceeds, we have come to a place in which a space is required where art can thrive, art for its own sake, art for its own beauty.
 
 We aim to achieve this by creating an **outreach program** styled in form of a **DAO** with a focus on building a **_decentralized cultural heritage_** of the world housed on the internet. We identify with the core values of : 
-  * Outreach Programmes - education, creativity, collaboration  
-  * Culutral Institutions -promotion, presevation of arts and culture;
+  * Outreach Programs - education, creativity, collaboration  
+  * Cultural Institutions -promotion, preservation of arts and culture;
   * Web3 - decentralization, community and a creator-first ecosystem.
 
 > Our Mission is to be _a place of communion for art and art lovers._
@@ -25,28 +25,28 @@ We aim to achieve this by creating an **outreach program** styled in form of a *
 
 We aim to produce, promote and preserve art while providing the following services:
   I. Education
-  II. Collaboraion
+  II. Collaboration
   III. Marketplace
   IV. Loyalty Programs
   V. Investment DAO
   
-Our services is formed to be a 5 - step process to be achieved in phases, because we see each succeding phase as building on the previous one.
+Our services is formed to be a 5 - step process to be achieved in phases, because we see each succeeding phase as building on the previous one.
 
 ![image](https://user-images.githubusercontent.com/66562380/175765379-2c7d9e50-d8df-4274-a7d2-c3d762fb7b30.png)
 
 ### SERVICE DELIVERY
 
 #### Education
-Education is a very important tool in creating a community around your outreach program because it gives you the opportunity to show people what your mission is all about and why they should be part of it. In our case, ArtCo is providing access to digital arts education to the general art community. We believe people have a natural thirst for self-improvement, and providing this particular service is our way of tapping into the art community. We want to bring together people who are passionate about learning, in one place where they can learn together. These student-members alongside more established artsits and educators who will assist in creating the curriculum and provide mentorship and guidance will form the crucial core of our membership in the beginning.
+Education is a very important tool in creating a community around your outreach program because it gives you the opportunity to show people what your mission is all about and why they should be part of it. In our case, ArtCo is providing access to digital arts education to the general art community. We believe people have a natural thirst for self-improvement, and providing this particular service is our way of tapping into the art community. We want to bring together people who are passionate about learning, in one place where they can learn together. These student-members alongside more established artists and educators who will assist in creating the curriculum and provide mentorship and guidance will form the crucial core of our membership in the beginning.
 
 **Problem Statement**: Inadequate and fragmented access to quality digital arts education.
 
 **Solution**: We aim to educate our members in two ways, by creating an online-learning platform and providing spaces for art discussion and appreciation. 
 
-The online learning platform will feature a well-curated curriculum on the most important digital art skills to learn at the moment, which will include digital painting, animation, 3D modelling, pixel art, etc. We will also offer topics at the intersection of art, technology, marketing and sustainability, so there will be courses offered in story-telling, documentation, art recreation, emulation and ethical issues, etc. We will like to give our members a well rounded education that offers them a vision of the importance and possibilities surrounding art in the digital age as we move towards a more virtual future.
-Art spaces will be spaces organized to envourage and spur art discussion and engagement. To make this even more attractive, we will invite more established artists, curaotors, archivists, art influencers, techpreneurs. The goal here is to bring in more synergy to our community building and not make it one-dimensional. Naturally social media will be a very important medium for this discussions. Social media platforms like Twitter, Instagram, You-tube are the perfect place to put ourselves out there and have these discussions. it's also a more proactive way of inviting prospective new members into the community as we discuss hot-topics in the art world. As an added benefit for members, we intend to actively make use of Discord, an important tool in community engagement. Discord will be a space where student-members can have constant communication and support each other. It will also be a place where they can actively ask questions and get their answers with guidance from mentors within the community.
+The online learning platform will feature a well-curated curriculum on the most important digital art skills to learn at the moment, which will include digital painting, animation, 3D modeling, pixel art, etc. We will also offer topics at the intersection of art, technology, marketing and sustainability, so there will be courses offered in story-telling, documentation, art recreation, emulation and ethical issues, etc. We will like to give our members a well rounded education that offers them a vision of the importance and possibilities surrounding art in the digital age as we move towards a more virtual future.
+Art spaces will be spaces organized to encourage and spur art discussion and engagement. To make this even more attractive, we will invite more established artists, curators, archivists, art influencers, tec-entepreneurs. The goal here is to bring in more synergy to our community building and not make it one-dimensional. Naturally social media will be a very important medium for this discussions. Social media platforms like Twitter, Instagram, You-tube are the perfect place to put ourselves out there and have these discussions. it's also a more proactive way of inviting prospective new members into the community as we discuss hot-topics in the art world. As an added benefit for members, we intend to actively make use of Discord, an important tool in community engagement. Discord will be a space where student-members can have constant communication and support each other. It will also be a place where they can actively ask questions and get their answers with guidance from mentors within the community.
 
-**Tezos Application**: At this stage, most of the community activities will be conducted in web2 especially social media. However we envision a use case of tokenizing members participation in the education stack i.e members who have completed the curriculum will be presented with Non-Transferrable Tokens (NTTs) which will serve as badges showing proof of participation in the program. This badge will be available in their Tezos wallet (Kukai) which becomes an addeed bonus to their digital resume. Another use-case that can be built on this is utilizing this badge as a neccessary proof required to participate in sponsored programs like art-residencies.
+**Tezos Application**: At this stage, most of the community activities will be conducted in web2 especially social media. However we envision a use case of tokenizing members participation in the education stack i.e members who have completed the curriculum will be presented with Non-Transferable Tokens (NTTs) which will serve as badges showing proof of participation in the program. This badge will be available in their Tezos wallet (Kukai) which becomes an addeed bonus to their digital resume. Another use-case that can be built on this is utilizing this badge as a necessary proof required to participate in sponsored programs like art-residencies.
 Another possible application of tokenization is to keep track of community members participation right from the start, for example Discord has a bot-enabled ranking system which can be tokenized into a point-based system that can be managed using a decentralized storage system like IPFS. This can be utilized in future on-chain to access benefits like discounts, free NFTs, etc. Naturally once this is redeemed, the value-worth of a discount for example will be deducted from the accrued points.
   
 #### Collaboration
@@ -59,16 +59,16 @@ While collaboration is billed to be the outcome of a success education program, 
 
 Exhibitions will be an open for all opportunity for artistic creators to exhibit, showcase and promote their art, while providing patrons and cultural institutions a wealth of art productions to curate. Exhibits will also serve as auctions, points-of-sales for creators and a way to interface with sponsor cultural institutions and tech companies particularly in the gaming and VR industries on possible collaborative use-cases for their art works. 
 Competitions which will be similarly open for all, will particulary double-down on team-work and collaboration with an hackathon-format which places high value on experimentation, cross-over applications not limited to the traditional art space, innovative products. Naturally there will be prizes up for grabs on this one and participants will be challenged to think outside the box in how they imagine the artistic creativity process, the limits of what can be done in terms of producing, promoting or preserving (digital) art.
-The residency program is probably the one that may be exclusive to members as a means for not only rewarding those whole have completed the curriculum both to also provide them access to more resources in terms of tools, mentorships, grants, etc. Member artists will be exposed to a variety of new techniques, cultures to stimulate, polish refine and most importantly reimagine all they have learnt prior to now in new forms set for the canvax. 
+The residency program is probably the one that may be exclusive to members as a means for not only rewarding those whole have completed the curriculum both to also provide them access to more resources in terms of tools, mentor-ships, grants, etc. Member artists will be exposed to a variety of new techniques, cultures to stimulate, polish refine and most importantly re-imagine all they have learnt prior to now in new forms set for the canvax. 
 
-Finally we intend to conduct these services have both virtual and on-ground formats of these programs, these will provide full benefits and access to art lovers of differing temparements, styles and resources. 
+Finally we intend to conduct these services have both virtual and on-ground formats of these programs, these will provide full benefits and access to art lovers of differing temperaments, styles and resources. 
  
 **Tezos Applications**: The blockchain applications of Tezos to the collaboration phase is similar to the use of NTTs as badges for proof of participation, however there are possible usecases that can be stacked on NTTs in this particular section. This includes making the NTTs regenerative, this is a fun way of proofing that you have participated in more than one ArtCo collaborative projects, as your NTTs changes form with each new program you attend or participate in. This usecase can be extended to being used as ticketiting for art events, where the rarity of your NTTs can determine if you are allowed VIP access for instance. 
 
 #### Marketplace
-Following the art collaboration phase and the production of high quality art-pieces, creators who have participated in this phase are naturally ready to trade on the marketplace and while we intend to make use of existing marketplaces on Tezos like KalaMint, we forsee additional usecses not presently available on this platforms that we proposition will be highly attractive to artistis, patrons, etc who trade on the marketplace.
+Following the art collaboration phase and the production of high quality art-pieces, creators who have participated in this phase are naturally ready to trade on the marketplace and while we intend to make use of existing marketplaces on Tezos like KalaMint, we foresee additional use-cases not presently available on this platforms that we proposition will be highly attractive to artists, patrons, etc who trade on the marketplace.
 
-**Problem Statement**: Low utilization of NFTs usecases and value in the marketplace
+**Problem Statement**: Low utilization of NFTs use-cases and value in the marketplace
 
 **Solutions**:
 
@@ -91,7 +91,7 @@ digital arts
 traditional artworks
 
 #### Loyalty Programs
-The loyalties program will be designed to reward members for their participation in community programmes. These does two things, it retains existing members and incentivize them to be more active in the community while also attracting prospective new members to the cause.
+The loyalties program will be designed to reward members for their participation in community programs. These does two things, it retains existing members and incentivize them to be more active in the community while also attracting prospective new members to the cause.
 
 **Problem Statement**: How to reward customers effectively?
 
@@ -112,22 +112,22 @@ Blockchains can also protect members privacy while making use of their data if t
 
 Blockchains can store and track loyalty points in real time via the use of smart contracts
 
-the scope of how to reward our most loyal and active members may be explored not just in the governance edge of things but also in the acquistion side of art objects (through discounts) as well slash-prices for online/offline events. This is done to show value for members participations. Value for value is the name of the game.
+the scope of how to reward our most loyal and active members may be explored not just in the governance edge of things but also in the acquisition side of art objects (through discounts) as well slash-prices for online/offline events. This is done to show value for members participations. Value for value is the name of the game.
 
 Some systems to adopt are:
   * Points system - based on rate of purchases - discounts/bonuses and free NFTs
   * Tiered rewards - based on community participation - exclusives, whitelists
   (Points system x Tiered system) - governance 
   * Upfront patron fee - to protect and preserve a piece of art of their own choice, lower transaction fees?
-  * Distinctive rewards - free tickets, early access, contact with their fav artiste, contribute to important socio-political causes
+  * Distinctive rewards - free tickets, early access, contact with their favourite artists, contribute to important socio-political causes
   * Partner with other communities, DAOs, cultural institutions
   * 
  On Chain message system for contacting NFT/Ticket holders 
 
 #### Investments DAO
-The Investment DAO is the final phase in our roll-out services and it's expected outcome of an income-generating community in the marketplace that have fostered camaraderie,collaboration and community building. At this stage member-patrons can pool their resources together and use it to invest in specific socio-political caus and projects that have been identified to be fitting with the community ethos. 
+The Investment DAO is the final phase in our roll-out services and it's expected outcome of an income-generating community in the marketplace that have fostered camaraderie,collaboration and community building. At this stage member-patrons can pool their resources together and use it to invest in specific socio-political cause and projects that have been identified to be fitting with the community ethos. 
 
-**Problem Statement**: Building a DAO focused on art investements
+**Problem Statement**: Building a DAO focused on art investments
 
 **Solutions**:
 Community members as patrons form an investment group (DA0). Investment pools is a way of bringing members resources to achieve the following goals:
@@ -145,63 +145,55 @@ because the web3 space is highly monetary-driven, we want a situation where our 
 * Education
   - Online learning platform 
     * S = Create an online platform for learning digital art  
-    * M = Have a standard curriculum catering to at least 4 niches in the beginner section. Onboard at least a 1000 members in the first 3 months. Measure our progress by how many people take each course and progress to the next one. Evaluate what we are doing right and wrong. Evaluate how many of our members are active on the learning platform and figure out how to increase active participation by noting what we are doing right and wrong.
+      M = Have a standard curriculum catering to at least 4 niches in the beginner section. Onboard at least           a 1000 members in the first 3 months. Measure our progress by how many people take each course and           progress to the next one. Evaluate what we are doing right and wrong. Evaluate how many of our               members are active on the learning platform and figure out how to increase active participation by           noting what we are doing right and wrong.
     * A = Potential obstacles, incremental changes to work on and look out for.
     * R = Offer tests and NFTs to measure and encourage student-members capability
     * T = 3 months timeline
+    
   - Art spaces and discussions 
-    * S = Create an open space where art can be discussed among members consistently and periodcally.
-    * M = Organize in-house town hall meetings to discuss specific topics in art (discord) every week and then throw in twitter spaces for the same purpose once every month. Also podcast interviews, youtube-channels can be considered. 
-    * A =
-    * R = Gauge which of the social media channels works best and focus on that, engage the community productively by bringing in experts on different topics and encouraging discussion among the student-members in town-hall meetings and interviews.
-    * T = Start 2 weeks after learning platform curriculum launch.
+    *  Create an open space where art can be discussed among members consistently and periodcally.
+    *  Organize in-house town hall meetings to discuss specific topics in art (discord) every week and then          throw in twitter spaces for the same purpose once every month. Also podcast interviews, youtube-              channels can be considered. 
+   
+    *  Gauge which of the social media channels works best and focus on that, engage the community                  productively by bringing in experts on different topics and encouraging discussion among the student-        members in town-hall meetings and interviews.
+    *  Start 2 weeks after learning platform curriculum launch.
+    
 * Collaboration
   - Virtual residencies
-    * S = Create a virtual residency program for student-members who have completed their phase of the curriculum
-    * M = The virtual residency will reoccur every 6 months to provide a sufficient net-period for student-members to complete their phase
-    * A =
-    * R = Mentors, resources will be provided, Members get a special NFT-badge after the program
-    * T = The program will last 1 month
+    * Create a virtual residency program for student-members who have completed their phase of the curriculum
+    * The virtual residency will reoccur every 6 months to provide a sufficient net-period for student-             members to complete their phase
+    * Mentors, resources will be provided, Members get a special NFT-badge after the program
+    * The program will last 1 month
+    
    - Exhibitions
-    * S = Create an exhibition/auction where members can present their works and appreciate others works
-    * M = Exhibitions will take place every 6 months intervals
-    * A =
-    * R =
-    * T = It will last for one week
+    *  Create an exhibition/auction where members can present their works and appreciate others works
+    *  Exhibitions will take place every 6 months intervals
+    *  It will last for one week
+ 
    - Competitions
-    * S = Organize art competitions to stimulate and encourage innovation among artist-members, it will be styled like an hackathon
+    * S = Organize art competitions to stimulate and encourage innovation among artist-members, it will be             styled like an hackathon
     * M = Art competitions will occur once in a year
     * A = It is possible to make secret or non secret offers for 1/1 and 1/N art creations
     * R = The highest offer wins after the exibition ends
     * T = It will last for two week
+    
  * Cooperative Investments
   - Liquidity pools
-    * S =
-    * M =
-    * A =
-    * R =
-    * T =
-  - Fundraising 
-    * S =
-    * M =
-    * A =
-    * R =
-    * T =
-  - Joint-ownership
-    * S =
-    * M =
-    * A = distributed ownership 
-    * R =
-    * T =
- * Loyalties Plan
-    * S =
-    * M =
-    * A = Art-Coins with colletaral in real Art or money
-    * R = Create special branded NFT Items of unique 1/1 art as 1/n
-    * T = Give away of 1/n special branded NFT 
+    * = Users can participate in DAO created pools to earn some interest
+    * = DAO creates new pools from yield of first pools
     
-
-
+  - Fundraising 
+    *  = DAO enables option to collect from community for artists and projects
+   
+  - Joint-ownership
+    * A = distributed ownership on ART
+    * R = distributed costs 
+    * T = distributed income 
+    
+ * Loyalties Plan
+  
+    *  = Art-Coins with colletaral in real Art or money
+    *  = Create special branded NFT Items of unique 1/1 art as 1/n
+    *  = Give away of 1/n special branded NFT 
 
 ## 3. Target Market
 Our target group is 
