@@ -133,7 +133,7 @@ Some systems to adopt are:
     * T =
   - Fundraising 
     * S = 
-    * M = Members can create fundraising programms 
+    * M = Members can create fundraising programms for their own Art
     * A =
     * R =
     * T =
@@ -144,9 +144,7 @@ Some systems to adopt are:
     * R = 
     * T =
  * Loyalties Plan
-    * S = 
-    * M =
-    * A = Art-Coins with colletaral in real Art or money
+  
     * R = Create special branded NFT Items of unique 1/1 art as 1/n
     * T = Give away of 1/n special branded NFT 
 
