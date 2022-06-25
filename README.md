@@ -261,7 +261,7 @@ No discrimination
  
 ## TEZOS
 
-### DEFI Solutions for Art Communites and Cultural Institutions
+### DEFI Solutions for Art Communities and Cultural Institutions
 
 #### Tokenization
      *  Fungible tokens - may be applied to loyalty programs in form of a point-based systems based on rate of purchases, the point value is equated to the token value, i.e if a user has accumulated 100points, they then have 100T. The points-system will be measured in real time and stored on chain. The value will be attached to the user wallet address which will be visible in their wallet using an on-chain messaging system which users can then use to buy new artworks.
