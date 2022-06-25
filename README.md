@@ -1,4 +1,6 @@
-## 1. Mission Statement 
+## 1. MISSION STATEMENT
+
+### DEFINITIONS OF KEY TERMS IN THE MISSION STATEMENT
 
 * What is a Cultural Institutions? A Cultural Institution is an organization with a culture and a mandate to preserve or promote art. They may be museums, libraries and archives, churches, art galleries, theaters, concert halls and opera houses. 
 
@@ -6,19 +8,39 @@
 
 * What is Web3? Web3 is a decentralized protocol of the internet which makes use of distributed network of computer, people and resources to achieve important social goals of decentralization, security and privacy which protects its users and puts them first.
 
-* Our Mission Statement identifies with these 3 definitions and incorporates their core values of culture, preservation and promotion of art, community-building, decentralization in a creator-first ecosystem.
+> As the digital age proceeds, we have come to a place in which a space is required where art can thrive, art for its own sake, art for its own beauty.
 
-> We are ArtCo, bridging the gap between art's, past, present and future.
+We aim to achieve this by creating an **outreach program** styled in form of a **DAO** with a focus on building a **_decentralized cultural heritage_** of the world housed on the internet. We identify with the core values of : 
+  * Outreach Programmes - education, creativity, collaboration  
+  * Culutral Institutions -promotion, presevation of arts and culture;
+  * Web3 - decentralization, community and a creator-first ecosystem.
+
+> Our Mission is to be _a place of communion for art and art lovers._
 
 
 
-## 2. Outlining the Goal
+## 2. OUTLINING THE GOAL
 
 ### AIM
-Our primary goal is to create a community outreach program styled as DAO which brings art lovers in close contact and communion with cultural instutions with the purpose of preserving and promoting art while fostering key ethos like collaboration, decentralization, education.
+
+We aim to produce, promote and preserve art while providing the following services:
+  I. Education
+  II. Collaboraion
+  III. Marketplace
+  IV. Loyalty Programs
+  V. Investment DAO
+  
+Our services is formed to be a 5 - step process to be achieved in phases, because we see each succeding phase as building on the previous one.
+
+![image](https://user-images.githubusercontent.com/66562380/175765379-2c7d9e50-d8df-4274-a7d2-c3d762fb7b30.png)
+
+### SERVICE DELIVERY
+
+#### Education
+Education is a very important tool in creating a community around your outreach program because it gives you the opportunity to show people what your mission is all about and why they should be part of it. In our case, ArtCo is providing access to digital arts education to the general art community. We believe people have a natural thirst for self-improvement, and providing this particular service is our way of tapping into the art community. We want to bring together people who are passionate about learning, in one place where they can learn together. These student-members alongside more established artsits and educators who will assist in creating the curriculum and provide mentorship and guidance will form the crucial core of our membership in the beginning.
 
 ### SERVICES
-* Education: Education is a very important tool in creating a community around the outreach program because you want people to learn about what you are doing and why they should be part of it. In our case we are trying to educate and promote art among our community members, not just existing one but prospective ones. This is very important because generally people are always excited about learning about something they are passionate about. What we want to do is here then is to bring these people together, to learn together in one place.
+* Education: 
   The education will be conducted as an online platform, where learning content in form of a curriculum is hosted; 
   The curriculum wil be in three phases for those interested in producing art for web3, promote their art in web3, preserving art in web3. Naturally the curriculum will teach topics at the intersection of art, technology and sustainability. Ideally we will welcome student-members of different levels of proficiency and allow flexbility for self-direction in choosing what they need to learn the most while guiding them to make the best choices. We will also focus more on digital art because of the virtual structure of the program and the philosophy behind it.
   
@@ -51,6 +73,20 @@ Collaboration is billed to run alongside the education stack but not restricted 
   * virtual residency programs - specially created for student-members who have completed the program to have access to more resources, new cultures and techniques, an opportunity to work up with a sponsoring institution, polish and refine their art and figure out what they want to do after. It's a bit like an internship only that artist will be encouraged to expose themselves to new forms they haven't explored together. 
   * exhibitions - which is open to all members to exhibit, promote, showcase and curate their art. Exhibits will also serve as auctions, points-of-sales and a way to interface with sponsor institutions and companies. Non-members will be invited and allowed to participate in the experience though they may not participate themselves.
   * competitions which is open to both members and non-members is a free for all mode to encourage art innovation, there will be prizes up for grabs, and artists will be challenged to rethink and think outside the box in how they produce, promote and preserve their digital art, there is also the added bonus of marketing our DAO further and bringing in new members.
+
+Synthetics can be applied to art auctions on chain, whereby listed art are betted against by holders that are not participants in the auction, all they simply need to do is bet on the price range at which the art will be sold, e.g:
+Van Gogh’s letter is listed to be auctioned on Thursday.
+Bets is placed on SEXP exchange using on-chain oracles.
+A bets Pixie will be sold below 5000 XTZ.
+B bets Pixie will be sold above 5000 XTZ.
+If Pixie is sold above 5000 XTZ, A wins out and takes all.
+Synthetics can also be applied to betting on the value of NFTs, in this case:
+Poxie is listed on Kalamint with a current value of 100 XTZ.
+A bets Poxie value will increase by 20%
+B bets Poxie value will decrease by 20% 
+They both send 100 XTZ into a smart contract
+If the value does go up by 20% >> they split the difference in which A wins out.
+
 
 * Cooperative Investments
 Community members as patrons form an investment group (DA0). Investment pools is a way of bringing members resources to achieve the following goals:
@@ -209,7 +245,22 @@ No discrimination
     * Identify the most important issues raised and the most important features needed and implement based on that
     * Let the marketing outreach focus on telling stories
     * Minimize assessment or intake procedures to lessen the bottlenecks for incoming members
-    * 
+   
+ Centralization vs Decentralization
+ Transperancy vs Secrecy
+ Acquistion vs Speculative
+ 
+## TEZOS
+
+### DEFI Solutions for Art Communites and Cultural Institutions
+
+#### Tokenization
+     *  Fungible tokens - may be applied to loyalty programs in form of a point-based systems based on rate of purchases, the point value is equated to the token value, i.e if a user has accumulated 100points, they then have 100T. The points-system will be measured in real time and stored on chain. The value will be attached to the user wallet address which will be visible in their wallet using an on-chain messaging system which users can then use to buy new artworks.
+     *  Non-fungible tokens - in addition to the normal trading function of NFTs, NFTs may be used in loyalty program to reward community members by offering free-tickets
+     * Non-transferable tokens - will be applied to the online learning platform, where student-members who have completed can receive NTTs as badges of completion which can be useful in the outside world as proof of knowledge. Student-members can even use this badges to apply for residency programs sponsored by cultural institutions. NTTs will also be awarded to those who participate in exhibitions and competitions.
+     * Mutli-asset contracts - 
+     * Fractionalized NFTs - is useful for the joint-ownership of artworks by members.
+     * Asset-backed tokens - this is an experimental feature, to see the possibilities of basing the value of tradeable tokens created by the community on the value of artworks they have - generally it's advised that artworks in this case be of museum-standard with higher intrinsic value.
 
 ## 4. BUDGETS
 ## 5. CONTRIBUTORS, PARTNERS AND RESPONSIBILITIES
