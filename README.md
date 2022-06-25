@@ -39,67 +39,65 @@ Our services is formed to be a 5 - step process to be achieved in phases, becaus
 #### Education
 Education is a very important tool in creating a community around your outreach program because it gives you the opportunity to show people what your mission is all about and why they should be part of it. In our case, ArtCo is providing access to digital arts education to the general art community. We believe people have a natural thirst for self-improvement, and providing this particular service is our way of tapping into the art community. We want to bring together people who are passionate about learning, in one place where they can learn together. These student-members alongside more established artsits and educators who will assist in creating the curriculum and provide mentorship and guidance will form the crucial core of our membership in the beginning.
 
-### SERVICES
-* Education: 
-  The education will be conducted as an online platform, where learning content in form of a curriculum is hosted; 
-  The curriculum wil be in three phases for those interested in producing art for web3, promote their art in web3, preserving art in web3. Naturally the curriculum will teach topics at the intersection of art, technology and sustainability. Ideally we will welcome student-members of different levels of proficiency and allow flexbility for self-direction in choosing what they need to learn the most while guiding them to make the best choices. We will also focus more on digital art because of the virtual structure of the program and the philosophy behind it.
-  
-  * Produce art for web3: Those interested in producing art for web3 are in two broad categories: the newbies, the oldheads.. this demarcation is for those who are getting into art for the first time and those who just need to upskill or learn new techniques. We can create our curriculum around:
-    * Digital Painting
-    * Drawing
-    * Vector Art
-    * 3d modelling
-    * 3D sculpting
-    * Matte Painting and Photomanipulation
-    * Pixel art
-    * 2D animation
-    * 3D animation
-    
-  * Promoting art in web3: This section of the curriculum will focus more on the 
-    * marketing, 
-    * netwroking, 
-    * story-telling, 
-    * branding side of things.
-    
-  * Preserving art in web3: This section will focus on how to use technology to preserve art, ethical and sustainability issues including a little bit of history
-    * documentation
-    * migration
-    * emulation
-    * recreation
-    * ethical and sustainability issues
-  
-* Collaboration 
-Collaboration is billed to run alongside the education stack but not restricted to the student-members, we recongize that our  membership has the potential to not only include artists only, but also art lovers in forms of techies, patrons, culturals institutions, etc. We want to create a open space where everyone can participate, collaborate and nurture each other's passions. We aim to caretake this through organizing virtual residency programs, exhibitions and competitions
-  * virtual residency programs - specially created for student-members who have completed the program to have access to more resources, new cultures and techniques, an opportunity to work up with a sponsoring institution, polish and refine their art and figure out what they want to do after. It's a bit like an internship only that artist will be encouraged to expose themselves to new forms they haven't explored together. 
-  * exhibitions - which is open to all members to exhibit, promote, showcase and curate their art. Exhibits will also serve as auctions, points-of-sales and a way to interface with sponsor institutions and companies. Non-members will be invited and allowed to participate in the experience though they may not participate themselves.
-  * competitions which is open to both members and non-members is a free for all mode to encourage art innovation, there will be prizes up for grabs, and artists will be challenged to rethink and think outside the box in how they produce, promote and preserve their digital art, there is also the added bonus of marketing our DAO further and bringing in new members.
+**Problem Statement**: Inadequate and fragmented access to quality digital arts education.
 
+**Solution**: We aim to educate our members in two ways, by creating an online-learning platform and providing spaces for art discussion and appreciation. 
+
+The online learning platform will feature a well-curated curriculum on the most important digital art skills to learn at the moment, which will include digital painting, animation, 3D modelling, pixel art, etc. We will also offer topics at the intersection of art, technology, marketing and sustainability, so there will be courses offered in story-telling, documentation, art recreation, emulation and ethical issues, etc. We will like to give our members a well rounded education that offers them a vision of the importance and possibilities surrounding art in the digital age as we move towards a more virtual future.
+Art spaces will be spaces organized to envourage and spur art discussion and engagement. To make this even more attractive, we will invite more established artists, curaotors, archivists, art influencers, techpreneurs. The goal here is to bring in more synergy to our community building and not make it one-dimensional. Naturally social media will be a very important medium for this discussions. Social media platforms like Twitter, Instagram, You-tube are the perfect place to put ourselves out there and have these discussions. it's also a more proactive way of inviting prospective new members into the community as we discuss hot-topics in the art world. As an added benefit for members, we intend to actively make use of Discord, an important tool in community engagement. Discord will be a space where student-members can have constant communication and support each other. It will also be a place where they can actively ask questions and get their answers with guidance from mentors within the community.
+
+**Tezos Application**: At this stage, most of the community activities will be conducted in web2 especially social media. However we envision a use case of tokenizing members participation in the education stack i.e members who have completed the curriculum will be presented with Non-Transferrable Tokens (NTTs) which will serve as badges showing proof of participation in the program. This badge will be available in their Tezos wallet (Kukai) which becomes an addeed bonus to their digital resume. Another use-case that can be built on this is utilizing this badge as a neccessary proof required to participate in sponsored programs like art-residencies.
+Another possible application of tokenization is to keep track of community members participation right from the start, for example Discord has a bot-enabled ranking system which can be tokenized into a point-based system that can be managed using a decentralized storage system like IPFS. This can be utilized in future on-chain to access benefits like discounts, free NFTs, etc. Naturally once this is redeemed, the value-worth of a discount for example will be deducted from the accrued points.
+  
+#### Collaboration
+The collaboration phase is billed to follow the education because we believe education is a fertile space to nurture the the spirit of collaboration through community collaboration, education and engagement. All the ideas flowing around in this initial spaces becomes the seeds we want to nurture to excellence in the collaboration members. We want to create a healthy open space for innovation, creativity and the birth of new art forms never seen before. 
+While collaboration is billed to be the outcome of a success education program, we do not intend to limit it to just student-members, instead it will be open to art lovers in all diversity. This include artists looking to showcase their skills, to techies who want to innovate solutions in the art space, as well as art patrons, creative types who have bright ideas who require skilled collaborators who can bring the ideas to life. We recongize that our  membership has the potential to include more than just artists only, and the art collaboration phase is the stage where ArtCo seeks to open its doors even wider to the broader art community and folks on its periphery.
+
+**Problem Statement**: Insufficient artistic collaborations
+
+**Solutions**: Art collaboration will be be nurtured in three broad ways:
+
+Exhibitions will be an open for all opportunity for artistic creators to exhibit, showcase and promote their art, while providing patrons and cultural institutions a wealth of art productions to curate. Exhibits will also serve as auctions, points-of-sales for creators and a way to interface with sponsor cultural institutions and tech companies particularly in the gaming and VR industries on possible collaborative use-cases for their art works. 
+Competitions which will be similarly open for all, will particulary double-down on team-work and collaboration with an hackathon-format which places high value on experimentation, cross-over applications not limited to the traditional art space, innovative products. Naturally there will be prizes up for grabs on this one and participants will be challenged to think outside the box in how they imagine the artistic creativity process, the limits of what can be done in terms of producing, promoting or preserving (digital) art.
+The residency program is probably the one that may be exclusive to members as a means for not only rewarding those whole have completed the curriculum both to also provide them access to more resources in terms of tools, mentorships, grants, etc. Member artists will be exposed to a variety of new techniques, cultures to stimulate, polish refine and most importantly reimagine all they have learnt prior to now in new forms set for the canvax. 
+
+Finally we intend to conduct these services have both virtual and on-ground formats of these programs, these will provide full benefits and access to art lovers of differing temparements, styles and resources. 
+ 
+**Tezos Applications**: The blockchain applications of Tezos to the collaboration phase is similar to the use of NTTs as badges for proof of participation, however there are possible usecases that can be stacked on NTTs in this particular section. This includes making the NTTs regenerative, this is a fun way of proofing that you have participated in more than one ArtCo collaborative projects, as your NTTs changes form with each new program you attend or participate in. This usecase can be extended to being used as ticketiting for art events, where the rarity of your NTTs can determine if you are allowed VIP access for instance. 
+
+#### Marketplace
+Following the art collaboration phase and the production of high quality art-pieces, creators who have participated in this phase are naturally ready to trade on the marketplace and while we intend to make use of existing marketplaces on Tezos like KalaMint, we forsee additional usecses not presently available on this platforms that we proposition will be highly attractive to artistis, patrons, etc who trade on the marketplace.
+
+**Problem Statement**: Low utilization of NFTs usecases and value in the marketplace
+
+**Solutions**:
+
+**Tezos Applications**: Some possible utilities of applications currently available on Tezos is Synthetics
 Synthetics can be applied to art auctions on chain, whereby listed art are betted against by holders that are not participants in the auction, all they simply need to do is bet on the price range at which the art will be sold, e.g:
-Van Gogh’s letter is listed to be auctioned on Thursday.
-Bets is placed on SEXP exchange using on-chain oracles.
-A bets Pixie will be sold below 5000 XTZ.
-B bets Pixie will be sold above 5000 XTZ.
-If Pixie is sold above 5000 XTZ, A wins out and takes all.
+ * Van Gogh’s letter is listed to be auctioned on Thursday.
+ * Bets is placed on an exchange like SEXP using on-chain oracles.
+ * A bets that it will be sold below 5000 XTZ.
+ * B bets that it will be sold above 5000 XTZ.
+ * If it is sold above 5000 XTZ, A wins out and takes all.
 Synthetics can also be applied to betting on the value of NFTs, in this case:
-Poxie is listed on Kalamint with a current value of 100 XTZ.
-A bets Poxie value will increase by 20%
-B bets Poxie value will decrease by 20% 
-They both send 100 XTZ into a smart contract
-If the value does go up by 20% >> they split the difference in which A wins out.
+ * Pixie is listed on Kalamint with a current value of 100 XTZ.
+ * A bets Pixie value will increase by 20%
+ * B bets Pixie value will decrease by 20% 
+ * They both send 100 XTZ into a smart contract
+ * If the value does go up by 20% >> they split the difference in which A wins out.
 
+Loan Collaterization Using NFTs as collateral for collecting loans on Tezfin, currently Tezfin allows collateral in form of fungible tokens. However it will be intersting if this is applied to NFTs as well, this can take two forms:
+digital arts
+traditional artworks
 
-* Cooperative Investments
-Community members as patrons form an investment group (DA0). Investment pools is a way of bringing members resources to achieve the following goals:
-  * jointly acquire artworks
-  * sponsor specific projects
-  * participate in the speeculative art market
-  * invest profits from art-sales in liquidity pools designed to pay back members through automatic payouts.
-because the web3 space is highly monetary-driven, we want a situation where our members are exposed to the nitty-gritty of the investment game, not just around NFTs but into the world of DEFI where the usecase before DAO resources can be better explored. We want to create a DAO in which NFT (ART) creators generally can pool their profits and invest in DEFI solutions and investment routes, serving as a solid passive-income/cash flow system for them.
+#### Loyalty Programs
+The loyalties program will be designed to reward members for their participation in community programmes. These does two things, it retains existing members and incentivize them to be more active in the community while also attracting prospective new members to the cause.
 
+**Problem Statement**: How to reward customers effectively?
 
-
+**Solutions**:
 * Loyalties Program
-The loyalties program will be designed to reward members for their participation in community programmes. These does two things, it retains existing members and incentivize them to be more active in the community while also attracting prospective new members to the cause. Some popular incentives that can be applied to the art community include:
+ Some popular incentives that can be applied to the art community include:
   * advance notice of/early access to new products
   * early access to sales
   * free merchandise or enhanced services
@@ -107,8 +105,7 @@ The loyalties program will be designed to reward members for their participation
   * members-only discounts
   * The loyalty program also forms basis to the DAO governance
 
- 
-There are various ways of utilizing a reward system in a decentralized way. Ideally the reward system will be connected to the wallet address of members.
+**Tezos Applications**: There are various ways of utilizing a reward system in a decentralized way. Ideally the reward system will be connected to the wallet address of members.
 Loyalty points will be equated to token value. Token value can be interchangeable and traded on-chain. Loyalty tokens may also be useful outside the community if the there are partnerships with other DAOs
 
 Blockchains can also protect members privacy while making use of their data if they decided to make it available.
@@ -126,7 +123,24 @@ Some systems to adopt are:
   * Partner with other communities, DAOs, cultural institutions
   * 
  On Chain message system for contacting NFT/Ticket holders 
- 
+
+#### Investments DAO
+The Investment DAO is the final phase in our roll-out services and it's expected outcome of an income-generating community in the marketplace that have fostered camaraderie,collaboration and community building. At this stage member-patrons can pool their resources together and use it to invest in specific socio-political caus and projects that have been identified to be fitting with the community ethos. 
+
+**Problem Statement**: Building a DAO focused on art investements
+
+**Solutions**:
+Community members as patrons form an investment group (DA0). Investment pools is a way of bringing members resources to achieve the following goals:
+  * jointly acquire artworks
+  * sponsor specific projects
+  * participate in the speeculative art market
+  * invest profits from art-sales in liquidity pools designed to pay back members through automatic payouts.
+because the web3 space is highly monetary-driven, we want a situation where our members are exposed to the nitty-gritty of the investment game, not just around NFTs but into the world of DEFI where the usecase before DAO resources can be better explored. We want to create a DAO in which NFT (ART) creators generally can pool their profits and invest in DEFI solutions and investment routes, serving as a solid passive-income/cash flow system for them.
+
+**Tezos Applications**:
+
+
+
 ### ACTIVITIES
 * Education
   - Online learning platform 
@@ -190,6 +204,9 @@ Some systems to adopt are:
 
 
 ## 3. Target Market
+Our target group is 
+ * The art community – with a focus on the millenial – gen z group
+ * Cultural institutions – museums, libraries, theatres, event-centres, etc..
    - Art lovers within the millenial demographic
   - Why? We are focussing on art lovers within the millenial demographic because they are the most tech-savvy and finally buoyant of the group considered. Gen Z is tech savvy as well but hasn't averagely hasn't achieved purchasing power as a demographic due to their age, while baby boomers while finally bouyant are not neccesarily tech-savy enough to probably handle web3 technologies. While we aim to be as open as possible and onboard as many people as possible. We have chose the millenial group as our focus group for the above reasons. But we welcome all people able to understand it.
   
@@ -262,7 +279,19 @@ No discrimination
      * Fractionalized NFTs - is useful for the joint-ownership of artworks by members.
      * Asset-backed tokens - this is an experimental feature, to see the possibilities of basing the value of tradeable tokens created by the community on the value of artworks they have - generally it's advised that artworks in this case be of museum-standard with higher intrinsic value.
 
-## 4. BUDGETS
-## 5. CONTRIBUTORS, PARTNERS AND RESPONSIBILITIES
-## 6. CONCLUSION
-## 7. RECOMMENDATION
+## 4. WHAT COULD GO WRONG? AND RECOMMENDATIONS
+ * Risk of failure or low adoption of the online learning platform, perharps due to poor learning tools or low reach or attractiveness towards potential learners 
+ * Poor community bonding, detached members, not engaged enough
+ * Risk of duplication, of doing the same thing, again if the marketplace is not attractive or unique enough
+ * Loyalty program not incentivizing enough, too complex, or not broad enough in usecases in case of cross-chain, or off-chain interoperability
+ * Fraud in case of investment DAO, or power aggregating in the hands of a few donors in terms of DAO direction.
+
+
+## 5. CONCLUSION
+ * As the digital age proceeds, we have come to a place in which a space is required where art can thrive, art for its own sake, fart for its own beauty.
+
+ * The core - ethos of cultural institutions is to preserve and promote art, we recognize this and identify with the need to bring art lovers who share this spirit together.
+
+ * A state of communion surrounding art, the artists and the audience liaised by cultural institutions and other relevant organizations.
+
+
