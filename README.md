@@ -1,3 +1,16 @@
+**REMINDER**: **_The README.md is the most up to date version_**
+
+
+
+                                                              #ARTCO
+                                                              
+                                                              
+                                                        Web3 Community Outreach
+                                                         
+                                                         
+                                                   (a tezos-gitcoin hackathon project)
+
+
 ## 1. MISSION STATEMENT
 
 ### DEFINITIONS OF KEY TERMS IN THE MISSION STATEMENT
