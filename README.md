@@ -15,7 +15,7 @@ We aim to achieve this by creating an **outreach program** styled in form of a *
   * Culutral Institutions -promotion, presevation of arts and culture;
   * Web3 - decentralization, community and a creator-first ecosystem.
 
-> Our Mission is to be _a place of communion for art and art lovers._
+> Our Mission is to be **a place of communion with art for art lovers.**
 
 
 
@@ -44,13 +44,17 @@ Education is a very important tool in creating a community around your outreach 
 **Solution**: We aim to educate our members in two ways, by creating an online-learning platform and providing spaces for art discussion and appreciation. 
 
 The online learning platform will feature a well-curated curriculum on the most important digital art skills to learn at the moment, which will include digital painting, animation, 3D modelling, pixel art, etc. We will also offer topics at the intersection of art, technology, marketing and sustainability, so there will be courses offered in story-telling, documentation, art recreation, emulation and ethical issues, etc. We will like to give our members a well rounded education that offers them a vision of the importance and possibilities surrounding art in the digital age as we move towards a more virtual future.
+
 Art spaces will be spaces organized to envourage and spur art discussion and engagement. To make this even more attractive, we will invite more established artists, curaotors, archivists, art influencers, techpreneurs. The goal here is to bring in more synergy to our community building and not make it one-dimensional. Naturally social media will be a very important medium for this discussions. Social media platforms like Twitter, Instagram, You-tube are the perfect place to put ourselves out there and have these discussions. it's also a more proactive way of inviting prospective new members into the community as we discuss hot-topics in the art world. As an added benefit for members, we intend to actively make use of Discord, an important tool in community engagement. Discord will be a space where student-members can have constant communication and support each other. It will also be a place where they can actively ask questions and get their answers with guidance from mentors within the community.
 
 **Tezos Application**: At this stage, most of the community activities will be conducted in web2 especially social media. However we envision a use case of tokenizing members participation in the education stack i.e members who have completed the curriculum will be presented with Non-Transferrable Tokens (NTTs) which will serve as badges showing proof of participation in the program. This badge will be available in their Tezos wallet (Kukai) which becomes an addeed bonus to their digital resume. Another use-case that can be built on this is utilizing this badge as a neccessary proof required to participate in sponsored programs like art-residencies.
+
 Another possible application of tokenization is to keep track of community members participation right from the start, for example Discord has a bot-enabled ranking system which can be tokenized into a point-based system that can be managed using a decentralized storage system like IPFS. This can be utilized in future on-chain to access benefits like discounts, free NFTs, etc. Naturally once this is redeemed, the value-worth of a discount for example will be deducted from the accrued points.
-  
+
+
 #### Collaboration
 The collaboration phase is billed to follow the education because we believe education is a fertile space to nurture the the spirit of collaboration through community collaboration, education and engagement. All the ideas flowing around in this initial spaces becomes the seeds we want to nurture to excellence in the collaboration members. We want to create a healthy open space for innovation, creativity and the birth of new art forms never seen before. 
+
 While collaboration is billed to be the outcome of a success education program, we do not intend to limit it to just student-members, instead it will be open to art lovers in all diversity. This include artists looking to showcase their skills, to techies who want to innovate solutions in the art space, as well as art patrons, creative types who have bright ideas who require skilled collaborators who can bring the ideas to life. We recongize that our  membership has the potential to include more than just artists only, and the art collaboration phase is the stage where ArtCo seeks to open its doors even wider to the broader art community and folks on its periphery.
 
 **Problem Statement**: Insufficient artistic collaborations
@@ -65,6 +69,7 @@ Finally we intend to conduct these services have both virtual and on-ground form
  
 **Tezos Applications**: The blockchain applications of Tezos to the collaboration phase is similar to the use of NTTs as badges for proof of participation, however there are possible usecases that can be stacked on NTTs in this particular section. This includes making the NTTs regenerative, this is a fun way of proofing that you have participated in more than one ArtCo collaborative projects, as your NTTs changes form with each new program you attend or participate in. This usecase can be extended to being used as ticketiting for art events, where the rarity of your NTTs can determine if you are allowed VIP access for instance. 
 
+
 #### Marketplace
 Following the art collaboration phase and the production of high quality art-pieces, creators who have participated in this phase are naturally ready to trade on the marketplace and while we intend to make use of existing marketplaces on Tezos like KalaMint, we forsee additional usecases not presently available on this platforms that may require us to build ours in future. 
 
@@ -77,7 +82,7 @@ Following the art collaboration phase and the production of high quality art-pie
  * A-Bidder sends in a maximum bid value of 5000 XTZ
  * B-Bidder sends in a maximum bid value of 3000 XTZ
  * If the ```incrementalBid``` function increases by 100 XTZ
- * At some point B-Bidder will notice that they have been outbid and can choose to increase their maximum bid through the UI interface
+ * At some point B-Bidder will notice that they have been outbid and can choose to increase their ```maximumBid``` through the UI interface
  * This cycle can on for rounds until a winning bid finally emerges. 
  
 An additional usecase that be applied to auctions is the use of synthetics. Using the same scenario of Van Gogh's letter, non-participants on an exchange like SEXP can decide to bet on the outcome of the ongoing bid, all they need to do is bet on the price range at which the art will be sold, in this way:
@@ -94,18 +99,17 @@ Synthetics can even be taken further to betting on the value of speculative NFTs
  * If the value does go up by 20% >> they split the difference in which A wins out.
 
 NfTs loan collaterization suggests making use of NFTs with a superior or equal value as collateral to the borrowed funds. There will always be pratical scenarios in which a borrower may possess insufficient capital but a superior asset base or collection which they should be able to leverage in DEFI. Of the two digital arts possess easier liquidity conversion value than traditional artworks. However traditional artworks will often have a more stable value. The utility therein means a borrower can use digital arts as NFT loan collateral in fast-pace market conditions where they can get into consistent short posistions of betting against marketplace behaviour. This method has a taste of NFT flipping to it in character which will be infinetely attractive to degens.
+
 Alternatively using traditional artworks as collateral is useful for long-range market conditions which may require a bit more foresight and planning, which is particularly useful for those who are borrowing to carry out specific capital-intensive projects like DAO launching.
 Currently Tezfin collects loan in fungible tokens, however it will be interesting if this can be extended to non-fungible tokens as well to widen the market base and encourage more utilization
+
 
 #### Loyalty Programs
 The loyalty program is designed to reward members participation in the community particularly in tmarketplace phase where their benefits can accrue and be redeemed the most. This does two things, it retains existing members and incentivize them to be more active in the community while also attracting prospective new members to the cause.
 
 **Problem Statement**: How to reward customers effectively?
 
-**Solutions**: 
-
-* Loyalties Program
- Some popular incentives that can be applied to the art community include:
+**Solutions**: Some popular incentives that can be applied to the art community include:
   * advance notice of/early access to new products
   * early access to sales
   * free merchandise or enhanced services
@@ -115,17 +119,12 @@ The loyalty program is designed to reward members participation in the community
 
 **Tezos Applications**: There are various ways of utilizing a reward system in a decentralized way. Ideally the reward system will be connected to the wallet address of members with an on-chain messaging system similar to EPNS for notifying patron-members of benefits like early access, discounts, etc.
 Some systems to adopt are:
+
 Points-based system - based on rate of purchases - in which loyalty points which are are stored and tracked in real time via the use of smart contraacts are calculated to be equal to token values which can the traded on-chain for discounts, bonuses, free NFTs, etc. Loyalty points may also be designed to be useful outside the community by partnering with other DAOS and cultural institutions. These kinds of partnerships is important in making the loyalty program more valuable.
 
 Tiered-based system - which leverages community participation - particularly on social media linked apps like discord, patreon and twitch - the bot-ranking system on discord for example may be utilized for offering exclusives, whitelist access to active community members. This can be done by making use of APIs to collecting data on the bot-ranking-system which are the connected to a decentralized file system like IPFS for on-chain utilization. Another tier-based use case is the use of Patreon membership which will be especially useful for partner cultural institutions to provide event access, early-acecss, VIP tickets for community members who choose to actively donate and participate in cultural institutions activities offline. 
 
 HODL is a special function of rewarding members for holding NFTs for as long as possible. This is a direct implication of identifying with cultural institutions core ethos by choosing to preserve arts for its intrinsic value and beauty rather than using it as a tool for speculation. We want to encourage and reward members for holding this NFTs by giving distinctive rewards by giving exclusive access to never before seen collections of artistic works both online and offline as well private access to the creator's creative process, etc.
-
-
-
-the scope of how to reward our most loyal and active members may be explored not just in the governance edge of things but also in the acquistion side of art objects (through discounts) as well slash-prices for online/offline events. This is done to show value for members participations. Value for value is the name of the game.
-
-
 
 
 #### Investments DAO
@@ -149,31 +148,12 @@ Finally the incidence of DogeCoin shows their is a possibility of creating a sta
 
 
 
-
-    
-
-
-
 ## 3. Target Market
-Our target group is 
- * The art community – with a focus on the millenial – gen z group
- * Cultural institutions – museums, libraries, theatres, event-centres, etc..
-   - Art lovers within the millenial demographic
-  - Why? We are focussing on art lovers within the millenial demographic because they are the most tech-savvy and finally buoyant of the group considered. Gen Z is tech savvy as well but hasn't averagely hasn't achieved purchasing power as a demographic due to their age, while baby boomers while finally bouyant are not neccesarily tech-savy enough to probably handle web3 technologies. While we aim to be as open as possible and onboard as many people as possible. We have chose the millenial group as our focus group for the above reasons. But we welcome all people able to understand it.
-  
-  - How to encourage active participation?
-Community building, participation and relationship is they key here.
+Our focus group is the the Millennial - Gen Z generation who possess financial, social resources alongside tech-savviness to navigate the internet. We believe our product and services are self-marketing on their own due to their attractiveness and usefulness to the community. Nevertheless, we aim to use the full power of social media to network and market ourselves using Tik-Tok, You-tube, Instagram, Twitter, etc to engage meaningful discussions and content around art.
+ * Community Discovery : Reddit, Twitter, Instagram, Youtube
+ * Cmmunity Engagement – Discords, Blogs
+ * Cmmunity Activation – Patreon, Twitch
 
-  - What do we want want from the target group?
-Their energy, passion, dedication, resources both mental, financial, social, etc.
-
-  - What are we offering them?
-A virtual community to explore the world of art with fellow art lovers.
-
-  - Creating a safe, open accessible community for them..
-No discrimination 
-
-  - Incorporating the community members input in the community's vision
 
 ### Building Relationships
 
@@ -190,7 +170,7 @@ No discrimination
   * Clear the air on concerning issues within the community to reduce negative feelings and viewpoints.
   * Actively listen to community members, encourage inquiries and questions to figure out what members consider important.
   * Encourage diversity and encourage members to treat each other in a dignified, sincere manner.
- 
+
 #### Building Relationships with Partner Organizations
   * Research and reach out to:
     * organizations with similar missions, purposes, values
@@ -206,22 +186,23 @@ No discrimination
     * cultural competence and communication styles.
   * Create a statement clearly outlining the partnership’s vision, rationale, and objectives. Also, explain why you are partnering. Be explicit about each partner’s role and assign tasks and responsibilities based on strengths. Begin with smaller tasks and responsibilities, and then increase their size and complexity over time.
   * Establish metrics to track desired activities, outputs, and outcomes (e.g., logic models or fidelity scales). Share relevant data as much as possible.
- 
- #### Specific Strategies 
+
+#### Specific Strategies 
   * Conduct a needs assessment to understand what the (digital) art communitites require the most and focus on that in terms of design for the DAO
     * Collect accurate data, stories, case-studies to get the perfect picture of the reality on ground.
     * Identify the most important issues raised and the most important features needed and implement based on that
     * Let the marketing outreach focus on telling stories
     * Minimize assessment or intake procedures to lessen the bottlenecks for incoming members
- 
+
 #### Possibe Conflicts Between Communites and Cultural Instituions
 
 ![image](https://user-images.githubusercontent.com/66562380/175796307-1ebf6935-2c88-46e0-8b2b-eb76dc155a2f.png)
 
-
 #### BENEFITS FOR BOTH COMMUNITIES AND CULTURAL INSTITUITIONS
 
 ![image](https://user-images.githubusercontent.com/66562380/175796195-7bdbf513-1810-46cd-97c0-eb82a290deee.png)
+
+
 
 ## 4. WHAT COULD GO WRONG? AND RECOMMENDATIONS
  * Risk of failure or low adoption of the online learning platform, perharps due to poor learning tools or low reach or attractiveness towards potential learners 
@@ -231,10 +212,21 @@ No discrimination
  * Fraud in case of investment DAO, or power aggregating in the hands of a few donors in terms of DAO direction.
 
 
+
 ## 5. CONCLUSION
  * As the digital age proceeds, we have come to a place in which a space is required where art can thrive, art for its own sake, art for its own beauty.
 
  * The core - ethos of cultural institutions is to preserve and promote art, we recognize this and identify with the need to bring art lovers who share this spirit together.
+ 
+ * Our mission once again is to bridge this divide between cultural institutions and art lovers and provide the foundation for a decentralized cultural heritage as our moves close to virtuality.
+
+
+## 6. APPENDIX
+
+![image](https://user-images.githubusercontent.com/66562380/175799905-26e40f7a-08b2-4256-b6ed-1e63e9d9d318.png)
+
+
+![image](https://user-images.githubusercontent.com/66562380/175799924-3ebe0889-d327-4574-9ac9-0dfdd6a4a32e.png)
 
 
 
